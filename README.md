@@ -8,9 +8,11 @@ fine.
 
 ---
 
+~~B F Wicaksono.~~ no one calls him that.
+
 founder & CTO ~~Snappy Angkasa Media~~ a small PT in malang.
 ~~lead architect bisnapi.id~~
-the guy who writes the auth flow.
+the guy who writes the auth flow. and the migrations. and signs the invoices.
 
 > gue lead architect bisnapi.id.
 
@@ -52,9 +54,9 @@ i keep starting drafts and not finishing them. that's the job.
 > anjing. lo bilang lo writer, lo nggak nulis apa-apa.
 > gue yang nulis. bagas.lol/blog. tiap minggu. cek aja.
 
-he's right.
+he's posted three times.
 
-> gue tau gue bener.
+> tiga lebih dari nol.
 
 ---
 
