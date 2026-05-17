@@ -1,0 +1,17 @@
+# Editor / OS noise
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+*.swp
+*.swo
+
+# Build artifacts (none expected, but just in case)
+dist/
+node_modules/
+
+# Local env
+.env
+.env.*
+!.env.example
