@@ -1,33 +1,67 @@
-# curl_segan
+> halo. gue bagas. gue ship —
 
-```
-                                            /bagas/        ngegas, ships
-github.com/curl_segan
-                                            /curl_segan/   slow, english
-```
+he starts a lot of sentences like that.
 
-> **bagas —** Founder & CTO [PT Snappy Angkasa Media](https://snappy.co.id). Lead architect [Bisnapi.id](https://bisnapi.id). Solo, bootstrapped, dari Malang.
->
-> [bagas@snappy.co.id](mailto:bagas@snappy.co.id) · [+62 851 9088 8404](https://wa.me/6285190888404)
+> diem.
 
-> **curl_segan —** Different room, same desk.
+fine.
 
 ---
 
-```
-bagas/                                  source for bagas.lol/blog
-└── notes/
-    ├── salah-yang-ngomong.md           linguistik buat dev
-    ├── kenapa-cloudflare.md            infra philosophy
-    └── mekari-math.md                  Bu Tatik economics
+founder & CTO ~~Snappy Angkasa Media~~ a small PT in malang.
+~~lead architect bisnapi.id~~
+the guy who writes the auth flow.
 
-curl_segan/                             english drafts
-└── notes/
-    └── welcome.md
-```
+> gue lead architect bisnapi.id.
 
-→ [bagas.lol](https://bagas.lol) · [bisnapi.id](https://bisnapi.id) · [snappy.co.id](https://snappy.co.id)
+you're the only architect.
+
+> exactly.
 
 ---
 
-<sub>PSE 022966.01/DJAI.PSE/04/2026 · Mendjaga Kedaoelatan Oesaha Repoeblik Indonesia 🇮🇩</sub>
+what does he do.
+~~build software for UMKM.~~
+~~build accounting tools for kecamatan-level businesses that have never seen a stripe checkout.~~
+builds bisnapi.id. accounting, invoicing, PPN, faktur — for warung, bengkel, anyone who needs an NPWP-aware ledger and doesn't want to learn xero.
+
+> lo nyalin punya gue.
+
+i edited it.
+
+> sama aja.
+
+---
+
+> reach me at bagas@snappy.co.id.
+
+he won't reply for three days.
+
+> +62 851 9088 8404.
+
+that he'll reply to in eleven minutes.
+
+---
+
+~~i've been working on a book about—~~
+~~there's an essay i want to finish about—~~
+~~i keep meaning to write—~~
+
+i keep starting drafts and not finishing them. that's the job.
+
+> anjing. lo bilang lo writer, lo nggak nulis apa-apa.
+> gue yang nulis. bagas.lol/blog. tiap minggu. cek aja.
+
+he's right.
+
+> gue tau gue bener.
+
+---
+
+PSE 022966.01/DJAI.PSE/04/2026.
+
+> Mendjaga Kedaoelatan Oesaha Repoeblik Indonesia.
+
+is that a real motto.
+
+> sekarang iya.
