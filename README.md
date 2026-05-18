@@ -1,6 +1,8 @@
-> halo. gue bagas. gue ship —
+Somewhere, something incredible is waiting to be shipped.
 
-he starts a lot of sentences like that.
+> Anjing, diem.
+
+he hates that line.
 
 > diem.
 
