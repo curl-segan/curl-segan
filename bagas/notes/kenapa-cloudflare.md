@@ -12,28 +12,33 @@ Jawaban marketing-version-nya: edge-native, latency rendah, post-quantum, single
 
 **Alasan utama: Cloudflare remember being small.**
 
-## Cerita kecil dari 2009
+## Yang penting bukan story-nya, tapi efek-nya ke lo
 
-Cloudflare started in 2009. Saat itu AWS udah charge $0.15 per GB bandwidth. CDN itu luxury — lo butuh kontrak enterprise. DDoS protection? $5,000+ per bulan. Startup kecil? *Tough luck.*
+Cloudflare started 2009 dengan satu prinsip: bandwidth, DDoS protection, dan CDN harusnya gratis untuk yang masih kecil. 17 tahun kemudian — itu masih bener. $0 bandwidth. $0 DDoS protection. $5/bulan unlimited workers.
 
-Cloudflare bilang: ini gak adil. Internet harusnya cepat dan aman buat semua orang, bukan cuma yang bisa bayar enterprise tier. Mereka kasih:
-
-- $0 bandwidth.
-- $0 DDoS protection.
-- $0 CDN.
-- $5/bulan unlimited workers.
-
-Itu bukan strategi growth. Itu **prinsip**. Dan itu yang bikin Cloudflare bisa jadi gede tanpa lupa siapa yang bantu mereka exist.
+Itu yang bikin Bisnapi bisa exist hari ini. Bukan karena gue jago — karena Cloudflare gak nge-charge gue per-request waktu gue masih ngitung-ngitung Rupiah.
 
 ## Yang gue bawa ke Bisnapi
 
 Gue 1 orang. Gue bootstrap. Gue gak punya dana 5 milyar buat AWS bills. Tapi karena Cloudflare ngasih gue tools yang masuk akal — gue bisa kasih lo:
 
 - **Tier RAKJAT gratis selamanya.** 100 transaksi/hari. Bukan trial. Bukan versi lite.
-- **Mulai Rp 45.000/bulan** buat full POS + ERP + CRM. 96% lebih murah dari Mekari.
-- **Latency &lt;30ms** dari Indonesia, karena Cloudflare punya 300+ edge locations.
+- **Mulai Rp 45.000/bulan** buat full POS + ERP + CRM.
+- **Latency ~30ms** dari Indonesia, karena Cloudflare punya 300+ edge locations termasuk Jakarta. AWS ap-southeast-1 di Singapore = ~150ms+ kalau lo di luar Jakarta. Selisihnya kerasa pas warung lagi rame jam makan siang.
 
-Gue gak bisa kasih lo itu kalau gue di AWS. Bandwidth bills doang udah bunuh margin. Gue harus naikin harga, atau hapus free tier, atau nge-throttle aggressive. Yang artinya — gue bakal jadi Mekari versi kecil.
+Soal harga: Bisnapi tier full stack (POS + ERP + HRIS + CRM + Tax) ada di Rp 350k–600k/bulan. Mekari Full Stack — Jurnal + Talenta + Klikpajak + Qontak — sekitar Rp 1.77 juta/bulan, atau ~Rp 5.8 juta/bulan untuk paket enterprise full team. Itu yang bikin angka 96% bisa di-quote dengan jujur. Bukan satu tier vs satu tier — bandingin yang setara.
+
+Gue gak bisa kasih lo itu semua kalau gue di AWS. Bandwidth bills doang udah bunuh margin. Gue harus naikin harga, atau hapus free tier, atau nge-throttle aggressive. Yang artinya — gue bakal jadi Mekari versi kecil.
+
+## "Tapi single-provider itu risk?"
+
+Iya. Gue tau.
+
+Cloudflare bisa down (Juni 2022, Juli 2023). Cloudflare bisa pivot pricing. Cloudflare bisa tiba-tiba decide kalo Asia-Pacific gak strategic.
+
+Tapi 17 tahun mereka udah prove satu hal: mereka gak pernah pivot ke "screw the little guy." Hari mereka mulai charge $0.15/GB bandwidth, gue mulai cari exit plan. Sampe situ — gue all in. Bet yang gue ambil sadar, bukan blind.
+
+Multi-provider di skala UMKM bukan hedge — itu overhead yang gue gak punya budget atau waktu untuk bayar. Single-provider yang trustworthy lebih bagus dari multi-provider yang mahal.
 
 ## Rantainya gak berhenti di gue
 
@@ -44,6 +49,6 @@ Gue gak bisa kasih lo itu kalau gue di AWS. Bandwidth bills doang udah bunuh mar
 
 Itu rantainya. Cloudflare kasih gue tools. Gue kasih lo software. Lo grow, lo hire, keluarga lo makan. Lo inget bisnis kecil yang bantu lo waktu lo masih kecil. Begitu seterusnya.
 
-Itu yang gue maksud "**RAKJAT bukan strategi growth, tapi janji.**" Free tier bakal tetep ada selamanya — bukan karena gue baik hati, tapi karena Cloudflare jaga gue. Gue cuma nerusin.
+Itu yang gue maksud **"RAKJAT bukan strategi growth, tapi janji."** Free tier bakal tetep ada selamanya — bukan karena gue baik hati, tapi karena Cloudflare jaga gue. Gue cuma nerusin.
 
 Pilih infrastruktur lo bukan dari tech spec doang. Pilih dari **siapa yang bakal masih ada saat lo butuh mereka, dan masih inget gimana rasanya jadi kecil.**
