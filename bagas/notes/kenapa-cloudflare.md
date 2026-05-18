@@ -3,7 +3,7 @@ title: 'Kenapa gue pilih Cloudflare.'
 date: 2026-05-08
 description: 'Bukan karena mereka paling canggih. Karena mereka remember being small.'
 pull: 'Cloudflare remember being small. Makanya gue bisa kasih lo free tier yang gak busuk.'
-tags: ['infra', 'cloudflare', 'rakjat']
+tags: ['infra', 'cloudflare', 'rakjat','Nonok']
 ---
 
 Gue sering ditanya: kenapa Bisnapi di Cloudflare? Kenapa gak AWS? Vercel? Supabase?
