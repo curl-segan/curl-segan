@@ -53,6 +53,8 @@ now:
     body: 'VC term sheets. consulting di luar Bisnapi. scale tim. solo dulu sampe Q3 2026.'
 
 nowUpdated: 'updated 18 mei 2026'
+
+footnote: 'soal email — buat surat-suratan, kirim ke <a href="mailto:2026@bagas.lol">2026@bagas.lol</a>. tahun depan ganti.'
 ---
 
 gue Bagas. lo lagi baca tulisan dari Malang. solo founder
