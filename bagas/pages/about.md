@@ -44,7 +44,7 @@ now:
     body: '<strong>Founding Rakjat story.</strong> 67 kursi pertama dapet 90% off seumur hidup. bukan growth hack — janji ke yang bantu Bisnapi waktu masih kecil.'
 
   - tag: learn
-    body: '<strong>SQLite FTS5 + triggers di D1.</strong> bisa replace Algolia kalau dataset masih di bawah 1M rows.'
+    body: '<strong>Kapan multi-tenant D1 abis batasnya.</strong> SQLite FTS5 cukup buat single-org. pas tenant butuh transaksi terisolasi + cross-org analytics, Postgres unavoidable. lagi migrasi ke Aiven, ganti tsvector. masih lebih murah dari Algolia.'
 
   - tag: play
     body: '<strong>Warframe.</strong> seminggu sekali, kadang sebulan sekali. tenno sejak 2013. main Excalibur 12 tahun sebelum nyobain frame yang lain — sekarang segala macem.'
@@ -53,7 +53,7 @@ now:
     dim: true
     body: 'VC term sheets. consulting di luar Bisnapi. scale tim. solo dulu sampe Q3 2026.'
 
-nowUpdated: 'updated 18 mei 2026'
+nowUpdated: 'updated 19 mei 2026'
 
 footnote: 'soal email — buat surat-suratan, kirim ke <a href="mailto:2026@bagas.lol">2026@bagas.lol</a>. tahun depan ganti.'
 ---
