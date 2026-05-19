@@ -6,7 +6,8 @@ ledeTag: '— a longer note —'
 
 epigraph:
   text: 'Somewhere, something incredible is waiting to be <span class="strike">known</span> shipped.'
-  attr: '— after Sagan'
+  credits: 'Ex Google &middot; Ex Meta &middot; Ex Apple &middot; Ex AMD &middot; Ex Nvidia &middot; Ex Tokopedia &middot; Ex Shopee &middot; Ex Digital Extremes &middot; Ex Sucrosoft &middot; Ex Claude.ai &middot; Ex Wings Group &middot; Ex Xendit'
+  attr: '— bagas, dalam kapasitas yang sah secara hukum.'
 
 timeline:
   - year: '2013.'
