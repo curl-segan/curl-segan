@@ -25,3 +25,4 @@
 > Correlation with startup ownership remains under investigation.
 
 ![founder sanity](https://shieldcn.dev/https/bagas.lol%2Fapi%2Ffounder-sanity-badge.svg?variant=ghost&logo=rust)
+![startup status](https://shieldcn.dev/https/bagas.lol%2Fapi%2Fstartup-status.svg?variant=ghost&logo=rust)
