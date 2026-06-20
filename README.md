@@ -13,3 +13,13 @@
 ![badge](https://shieldcn.dev/badge/Powered-by%20Rust.svg?variant=ghost&size=default&logo=rust)
 
 </div>
+
+---
+
+## Founder Sanity™
+
+![Founder Sanity](https://shieldcn.dev/chart/json.svg?values=100,95,89,81,72,63,45&title=Founder%20Sanity&label=%25&theme=violet&bg=transparent&border=false)
+
+> Status: Operational
+>
+> Correlation with startup ownership remains under investigation.
