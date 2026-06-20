@@ -1,43 +1,37 @@
-# bagas
+<div align="center">
 
-I build [Bisnapi](https://bisnapi.id) — accounting, invoicing, PPN, and faktur software for Indonesian UMKM.
+# Hi, I'm Bagas Fajar Wicaksono 👋
 
-Solo founder at [Snappy Angkasa Media](https://bisnapi.id), based in Malang.
-I write the auth flow, ship the migrations, handle the ledger edge cases, and sign the invoices too.
+Building 🇮🇩 Bisnapi — an all-in-one business platform for Indonesian SMEs.
 
-[![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://workers.cloudflare.com)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)](https://hono.dev)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
-[![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)](https://aws.amazon.com/ec2)
+Currently rebuilding the platform in Rust, designing systems, writing RFCs, and shipping features as a solo founder.
 
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40curl--segan-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/curl-segan)
+[![Website](https://www.shieldcn.dev/badge/Website-bagas.lol-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://bagas.lol)
+[![Twitter / X](https://www.shieldcn.dev/x/follow/curlsegan.svg?variant=branded&size=sm)](https://x.com/curlsegan)
+[![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40bfwicaksono-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://linkedin.com/in/bfwicaksono)
 
----
-
-Bisnapi is for warung, bengkel, and small businesses that need an NPWP-aware ledger — without learning enterprise software.
-Not "digital transformation." Just software that matches how Indonesian businesses actually run.
-
-Boring infrastructure. Reliable enough. Cheap enough.
+</div>
 
 ---
 
-## What I'm building
+### What I'm building
 
-- Auth and organization isolation
-- Invoicing, PPN, faktur, and ledger flows
-- POS / ERP / HRIS / CRM in one product
+- 🦀 Rust-first backend architecture
+- 🏪 POS, CRM, ERP & HRIS for SMEs
+- 🤖 AI-powered business tools
+- ☁️ Multi-tenant SaaS infrastructure
+- 🇮🇩 Built specifically for Indonesian businesses
 
-## Links
+### Current Focus
 
-- Product: [bisnapi.id](https://bisnapi.id)
-- Changelog: [bisnapi.id/changelog](https://bisnapi.id/changelog)
-- Pricing: [bisnapi.id/pricing](https://bisnapi.id/pricing)
-- Blog: [bagas.lol](https://bagas.lol)
+- Rebuilding Bisnapi Core
+- Platform architecture & RFCs
+- AI features for SMEs
+- Product-led growth
 
-## Contact
+### Tech I enjoy
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bfwicaksono)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/curlsegan)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62881081171099)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bagas@snappy.co.id)
+```txt
+Rust • TypeScript • PostgreSQL • SurrealDB
+SvelteKit • TanStack Start • Docker • Linux
