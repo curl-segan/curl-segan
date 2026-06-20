@@ -23,3 +23,5 @@
 > Status: Operational
 >
 > Correlation with startup ownership remains under investigation.
+
+![founder sanity](https://shieldcn.dev/https/bagas.lol%2Fapi%2Ffounder-sanity-badge.svg?variant=ghost&logo=rust)
