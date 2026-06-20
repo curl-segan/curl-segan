@@ -18,7 +18,7 @@
 
 ## Psychological Stability
 
-![Founder Sanity](https://shieldcn.dev/chart/json.svg?url=https%3A%2F%2Fbagas.lol%2Fapi%2Ffounder-sanity&query=%24.values%5B*%5D&dateQuery=%24.dates%5B*%5D&label=Founder+sanity&theme=purple&bg=transparent&title=Founder+Sanity+2023-2026&icon=rust&yTicks=10&xTicks=7&font=jetbrains-mono&logo=false&area=true)
+![Founder Sanity](https://shieldcn.dev/chart/json.svg?url=https%3A%2F%2Fbagas.lol%2Fapi%2Ffounder-sanity&query=%24.values%5B*%5D&dateQuery=%24.dates%5B*%5D&label=Founder+sanity&theme=purple&bg=transparent&title=Founder+Sanity+2023-2026&icon=rust&yTicks=10&xTicks=7&font=jetbrains-mono&logo=false&area=true&yMax=100)
 
 > Status: Operational
 >
