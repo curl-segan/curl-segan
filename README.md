@@ -9,7 +9,4 @@
 [![Twitter / X](https://www.shieldcn.dev/x/follow/curlsegan.svg?variant=branded&size=sm)](https://x.com/curlsegan)
 [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40bfwicaksono-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://linkedin.com/in/bfwicaksono)
 
-[![GitHub Followers](https://www.shieldcn.dev/github/followers/curl-segan.svg?variant=secondary&size=sm)](https://github.com/curl-segan?tab=followers)
-[![GitHub Stars](https://www.shieldcn.dev/github/user-stars/curl-segan.svg?variant=secondary&size=sm)](https://github.com/curl-segan?tab=repositories)
-
-</div> 
+</div>
